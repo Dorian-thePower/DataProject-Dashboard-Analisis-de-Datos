@@ -2,17 +2,17 @@
 ### Análisis de Ventas (EDA) — Chocolate Sales 2023–2024
 Este documento resume el análisis exploratorio de ventas (EDA) de una empresa internacional de chocolates. Incluye cómo se prepararon los datos, qué KPIs se crearon y las conclusiones principales.
 
-### 1. Descripción del proyecto
+## 1. Descripción del proyecto
 Este proyecto analiza las ventas de una empresa internacional de chocolates usando datos de 2023 y 2024. La idea es entender qué se vende, cuándo se vende y dónde se vende, para apoyar decisiones de negocio.
 Se revisa la evolución de ventas por productos, categorías y marcas, y también por tiempo (año, mes, semana y día). Además, se comparan resultados por tipo de tienda y por país para tener una visión global.
 También se analiza a quién se le vende: edad, género y si el cliente está fidelizado. Esto ayuda a entender mejor los hábitos de compra y a segmentar.
 Por último, se revisan ventas y beneficios a lo largo del tiempo para ver si los meses con más ventas también son los más rentables.
 
-### 2. Estructura del proyecto
+## 2. Estructura del proyecto
 Datos
 Los datos se obtienen de un dataset publicado en Kaggle  https://www.kaggle.com/ (Chocolate Sales: Complete EDA + ML Pipeline) y se guardan en el archivo Datos_originales.
 
-# 2.1 Transformación y limpieza de datos
+## 2.1 Transformación y limpieza de datos
 •	Se cargan los CSV en Excel (archivo Transformación de Datos), separando los campos por comas.
 •	En la hoja Ventas, Id Pedido se usa como clave para relacionar la información del resto de hojas.
 •	También se usan como identificadores: Id Producto (Productos), Id Cliente (Clientes) y Id Tienda (Tienda).
@@ -23,7 +23,7 @@ Los datos se obtienen de un dataset publicado en Kaggle  https://www.kaggle.com/
 •	En el Excel final (Análisis de Ventas) se eliminan los registros “Desconocido” porque no aportan a los KPIs.
 •	Se cambia Miembro Fidelizado de 1/0 a Sí/No.
 
-# 2.2 Análisis descriptivo (KPIs y tablas)
+## 2.2 Análisis descriptivo (KPIs y tablas)
 Los datos limpios se guardan en la hoja Datos_Ventas del Excel Análisis de Ventas. Estos son los campos principales:
 •	Id Pedido: identificador único del pedido.
 •	Fecha Pedido: fecha en la que se registra el pedido.
