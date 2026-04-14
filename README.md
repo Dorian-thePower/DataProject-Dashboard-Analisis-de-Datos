@@ -2,13 +2,13 @@
 ### Análisis de Ventas (EDA) — Chocolate Sales 2023–2024
 Este documento resume el análisis exploratorio de ventas (EDA) de una empresa internacional de chocolates. Incluye cómo se prepararon los datos, qué KPIs se crearon y las conclusiones principales.
 
-## 1. Descripción del proyecto
+### 1. Descripción del proyecto
 Este proyecto analiza las ventas de una empresa internacional de chocolates usando datos de 2023 y 2024. La idea es entender qué se vende, cuándo se vende y dónde se vende, para apoyar decisiones de negocio.
 Se revisa la evolución de ventas por productos, categorías y marcas, y también por tiempo (año, mes, semana y día). Además, se comparan resultados por tipo de tienda y por país para tener una visión global.
 También se analiza a quién se le vende: edad, género y si el cliente está fidelizado. Esto ayuda a entender mejor los hábitos de compra y a segmentar.
 Por último, se revisan ventas y beneficios a lo largo del tiempo para ver si los meses con más ventas también son los más rentables.
 
-## 2. Estructura del proyecto
+### 2. Estructura del proyecto
 Datos
 Los datos se obtienen de un dataset publicado en Kaggle  https://www.kaggle.com/ (Chocolate Sales: Complete EDA + ML Pipeline) y se guardan en el archivo Datos_originales.
 
