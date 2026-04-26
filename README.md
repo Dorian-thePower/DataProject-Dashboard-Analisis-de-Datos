@@ -26,6 +26,7 @@ Los datos provienen del dataset de Kaggle: Chocolate Sales: Complete EDA + ML Pi
 •	Se cambia Miembro Fidelizado de 1/0 a Sí/No.
 
 📊 2.2 Análisis descriptivo (KPIs y tablas)
+
 Los datos limpios se guardan en Datos_Ventas dentro del Excel Análisis de Ventas.
 
 Campos principales:
