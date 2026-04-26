@@ -76,13 +76,13 @@ KPIs analizados:
 El dashboard incluye:
 * Panel superior: tarjetas de KPIs (ventas, pedidos, clientes, ingresos, beneficio, margen).
 
-- Zona central:
+Zona central:
 
 * Ventas por año/mes
 * Ventas por semana/día
 * Top 5 productos más y menos vendidos
 
-- Zona inferior:
+Zona inferior:
 
 * Ventas por tipo de tienda
 * Evolución de ingresos y beneficios
@@ -98,77 +98,57 @@ Aquí se resumen los principales hallazgos del análisis (qué se vende, cuándo
 
 📅 4.1 Evolución de ventas por fecha
 
-En 2023, el mejor mes fue diciembre.
+- En 2023, el mejor mes fue diciembre.
+- En 2024, el mejor mes fue junio.
+- Las ventas aumentan en fines de semana:
 
-En 2024, el mejor mes fue junio.
-
-Las ventas aumentan en fines de semana:
-
-2023 → domingo
-
-2024 → sábado
+  - 2023 → domingo
+  - 2024 → sábado
 
 🍬 4.2 Productos, categorías y marcas
 
-Producto más vendido: Chocolate Negro 50%.
-
-Categoría líder: Praliné.
-
-Marca más fuerte: Cadbury.
+- Producto más vendido: Chocolate Negro 50%.
+- Categoría líder: Praliné.
+- Marca más fuerte: Cadbury.
 
 🏬 4.3 Ventas por canal (tipo de tienda)
 
-El canal Aeropuerto es el más fuerte en ambos años.
+- El canal Aeropuerto es el más fuerte en ambos años.
 
-Producto líder por canal:
+- Producto líder por canal:
 
-Aeropuerto → Chocolate Negro 50%
-
-Centro comercial → Chocolate Blanco 80%
-
-Online / Minoristas → Chocolate Negro 50%
+  - Aeropuerto → Chocolate Negro 50%
+  - Centro comercial → Chocolate Blanco 80%
+  - Online / Minoristas → Chocolate Negro 50%
 
 Esto sugiere adaptar surtido y promociones según el canal.
 
 👥 4.4 Perfil de cliente
 
-País con más ventas: Canadá.
+- País con más ventas: Canadá.
+- Rango de edad dominante: 28–37 años.
+- Ventas por género: bastante equilibradas.
+- Caso particular:
+  - En aeropuertos de Alemania, el Chocolate Negro 50% se vende más a mujeres.
 
-Rango de edad dominante: 28–37 años.
-
-Ventas por género: bastante equilibradas.
-
-Caso particular:
-
-En aeropuertos de Alemania, el Chocolate Negro 50% se vende más a mujeres.
-
-Los clientes fidelizados compran ligeramente más.
+- Los clientes fidelizados compran ligeramente más.
 
 💰 4.5 Ventas vs. beneficios
 
-Picos de ventas en diciembre (2023 y 2024).
-
-Pero el beneficio no crece igual: los costes también suben en esos meses
+- Picos de ventas en diciembre (2023 y 2024).
+- Pero el beneficio no crece igual: los costes también suben en esos meses
 
 🧾 5. Resultados y conclusiones
 
-Estacionalidad clara: diciembre 2023 y junio 2024.
-
-Más ventas en fines de semana.
-
-Producto estrella: Chocolate Negro 50%.
-
-Categoría líder: Praliné.
-
-Marca dominante: Cadbury.
-
-Canal más rentable: Aeropuerto.
-
-Segmento principal: 28–37 años.
-
-Género equilibrado (con matices por país).
-
-Fidelización con impacto moderado pero positivo.
+- Estacionalidad clara: diciembre 2023 y junio 2024.
+- Más ventas en fines de semana.
+- Producto estrella: Chocolate Negro 50%.
+- Categoría líder: Praliné.
+- Marca dominante: Cadbury.
+- Canal más rentable: Aeropuerto.
+- Segmento principal: 28–37 años.
+- Género equilibrado (con matices por país).
+- Fidelización con impacto moderado pero positivo.
 
 Conclusión:  
 Con estos resultados se puede planificar mejor por temporada, ajustar surtido/promos por canal y afinar la segmentación de clientes.
