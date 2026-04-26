@@ -1,4 +1,5 @@
 🍫 DataProject — Dashboard & Análisis de Datos
+
 📊 Análisis de Ventas (EDA) — Chocolate Sales 2023–2024
 Este documento resume el análisis exploratorio de ventas (EDA) de una empresa internacional de chocolates. Incluye la preparación de datos, los KPIs creados y las conclusiones principales.
 
