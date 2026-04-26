@@ -9,6 +9,7 @@ También se analiza a quién se le vende: edad, género y si el cliente está fi
 Por último, se revisan ventas y beneficios a lo largo del tiempo para ver si los meses con más ventas también son los más rentables.
 
 🗂️ 2. Estructura del proyecto
+
 📦 Datos
 Los datos provienen del dataset de Kaggle: Chocolate Sales: Complete EDA + ML Pipeline  y se almacenan en el archivo Datos_originales.
 
