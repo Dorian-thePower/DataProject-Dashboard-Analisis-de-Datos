@@ -15,15 +15,15 @@ Por último, se revisan ventas y beneficios a lo largo del tiempo para ver si lo
 Los datos provienen del dataset de Kaggle: Chocolate Sales: Complete EDA + ML Pipeline  y se almacenan en el archivo Datos_originales.
 
 🧹 2.1 Transformación y limpieza de datos
-•	Se cargan los CSV en Excel (archivo Transformación de Datos), separando los campos por comas.
-•	En la hoja Ventas, Id Pedido se usa como clave para relacionar la información del resto de hojas.
-•	También se usan como identificadores: Id Producto (Productos), Id Cliente (Clientes) y Id Tienda (Tienda).
-•	Se añaden columnas para traer datos de Tienda/Clientes/Productos (por ejemplo: Nombre Tienda, Ciudad, País, Tipo Tienda, Edad, Género, Miembro Fidelizado, Fecha Registro, Nombre Producto, Marca y Categoría) usando BuscarX.
-•	Se da formato de fecha (dd/mm/aaaa) a Fecha Pedido y Fecha Registro y se añade la columna Día de la semana.
-•	Se aplica formato numérico (contabilidad) a Descuento, Ingresos, Coste y Beneficio.
-•	Si faltan valores en Nombre Producto, Marca o Categoría, se rellenan como "Desconocido" para completar la tabla.
-•	En el Excel final (Análisis de Ventas) se eliminan los registros “Desconocido” porque no aportan a los KPIs.
-•	Se cambia Miembro Fidelizado de 1/0 a Sí/No.
+ - Se cargan los CSV en Excel (archivo Transformación de Datos), separando los campos por comas.
+ - En la hoja Ventas, Id Pedido se usa como clave para relacionar la información del resto de hojas.
+ - También se usan como identificadores: Id Producto (Productos), Id Cliente (Clientes) y Id Tienda (Tienda).
+ - Se añaden columnas para traer datos de Tienda/Clientes/Productos (por ejemplo: Nombre Tienda, Ciudad, País, Tipo Tienda, Edad, Género, Miembro Fidelizado, Fecha Registro, Nombre Producto, Marca y Categoría) usando BuscarX.
+ - Se da formato de fecha (dd/mm/aaaa) a Fecha Pedido y Fecha Registro y se añade la columna Día de la semana.
+ - Se aplica formato numérico (contabilidad) a Descuento, Ingresos, Coste y Beneficio.
+ - Si faltan valores en Nombre Producto, Marca o Categoría, se rellenan como "Desconocido" para completar la tabla.
+ - En el Excel final (Análisis de Ventas) se eliminan los registros “Desconocido” porque no aportan a los KPIs.
+ - Se cambia Miembro Fidelizado de 1/0 a Sí/No.
 
 📊 2.2 Análisis descriptivo (KPIs y tablas)
 
