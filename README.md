@@ -31,105 +31,66 @@ Los datos limpios se guardan en Datos_Ventas dentro del Excel Análisis de Venta
 
 Campos principales:
 
-Id Pedido
-
-Fecha Pedido
-
-Día de la semana
-
-Id Producto
-
-Id Tienda
-
-Nombre Tienda
-Ciudad
-
-País
-
-Tipo Tienda
-
-Id Cliente
-
-Edad
-
-Género
-
-Miembro Fidelizado
-
-Fecha Registro
-
-Cantidad
-
-Precio Unitario
-
-Descuento
-
-Ingresos
-
-Coste
-
-Beneficio
-
-Nombre Producto
-
-Marca
-
-Categoría
+- Id Pedido
+- Fecha Pedido
+- Día de la semana
+- Id Producto
+- Id Tienda
+- Nombre Tienda
+- Ciudad
+- País
+- Tipo Tienda
+- Id Cliente
+- Edad
+- Género
+- Miembro Fidelizado
+- Fecha Registro
+- Cantidad
+- Precio Unitario
+- Descuento
+- Ingresos
+- Coste
+- Beneficio
+- Nombre Producto
+- Marca
+- Categoría
 
 KPIs analizados:
 
-Productos vendidos
-
-Pedidos totales
-
-Ingresos
-
-Beneficio
-
-Clientes únicos
-
-Top 5 productos más y menos vendidos
-
-Distribución por marca y categoría
-
-Ventas por país
-
-Ventas por año/mes/semana/día
-
-Ventas por tipo de tienda
-
-Ventas por género, edad y fidelización
-
-Relación ventas vs. ingresos/beneficios
-
-Evolución temporal de ventas y beneficios
+- Productos vendidos
+- Pedidos totales
+- Ingresos
+- Beneficio
+- Clientes únicos
+- Top 5 productos más y menos vendidos
+- Distribución por marca y categoría
+- Ventas por país
+- Ventas por año/mes/semana/día
+- Ventas por tipo de tienda
+- Ventas por género, edad y fidelización
+- Relación ventas vs. ingresos/beneficios
+- Evolución temporal de ventas y beneficios
 
 📈 3. Dashboard
 
 El dashboard incluye:
-Panel superior: tarjetas de KPIs (ventas, pedidos, clientes, ingresos, beneficio, margen).
+* Panel superior: tarjetas de KPIs (ventas, pedidos, clientes, ingresos, beneficio, margen).
 
-Zona central:
+- Zona central:
 
-Ventas por año/mes
+* Ventas por año/mes
+* Ventas por semana/día
+* Top 5 productos más y menos vendidos
 
-Ventas por semana/día
+- Zona inferior:
 
-Top 5 productos más y menos vendidos
+* Ventas por tipo de tienda
+* Evolución de ingresos y beneficios
+* Ventas por país
+* Ventas por género
 
-Zona inferior:
-
-Ventas por tipo de tienda
-
-Evolución de ingresos y beneficios
-
-Ventas por país
-
-Ventas por género
-
-Lateral izquierdo: título + filtros (Año, Edad, Fidelización).
-
-Lateral derecho: filtro de Tipo de tienda + % por categoría y marca.
+- Lateral izquierdo: título + filtros (Año, Edad, Fidelización).
+- Lateral derecho: filtro de Tipo de tienda + % por categoría y marca.
 
 🔍 4. Informe
 
