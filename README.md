@@ -13,6 +13,7 @@ Por último, se revisan ventas y beneficios a lo largo del tiempo para ver si lo
 🗂️ 2. Estructura del proyecto
 
 📦 Datos
+
 Los datos provienen del dataset de Kaggle: Chocolate Sales: Complete EDA + ML Pipeline  y se almacenan en el archivo Datos_originales.
 
 🧹 2.1 Transformación y limpieza de datos
